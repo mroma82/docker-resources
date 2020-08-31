@@ -1,7 +1,7 @@
 # Docker Aliases
 
-dps="docker ps"
-dpsa="docker ps -a"
-dsps="docker node ps $(docker node ls -q)"
-dn="docker node"
+alias dps="docker ps"
+alias dpsa="docker ps -a"
+alias dsps="docker node ps $(docker node ls -q)"
+alias dn="docker node"
 
